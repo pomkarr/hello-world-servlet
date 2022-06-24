@@ -17,3 +17,4 @@ sample
 07-03-2022  -- it is Monday 10.12am of march
 14-03-2022  -- it is monday 11.02am of june 
 08-06-2022 -- it is wednesday 
+24-06-2022 --> today is friday 
